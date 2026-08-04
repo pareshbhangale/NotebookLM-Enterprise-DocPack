@@ -1,0 +1,58 @@
+kind,title,url
+pdf,Implementation Guide,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fawig/implementing-oracle-fusion-data-intelligence.pdf
+pdf,Release Notes,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fawwn/whats-new-oracle-fusion-data-intelligence.pdf
+pdf,User Guide,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fawug/using-oracle-fusion-data-intelligence.pdf
+pdf,Administration Guide,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fawag/administering-oracle-fusion-data-intelligence.pdf
+pdf,Data Augmentation Scripts Reference Guide,https://docs.oracle.com/en/cloud/saas/analytics/26r2/dasrg/data-augmentation-scripts-reference-guide.pdf
+pdf,Known Issues,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fawki/known-issues-oracle-fusion-data-intelligence.pdf
+pdf,Reference for Fusion CX Analytics,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fawcx/reference-fusion-cx-analytics.pdf
+pdf,Reference for Fusion ERP Analytics,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiae/reference-fusion-erp-analytics.pdf
+pdf,Reference for Fusion HCM Analytics,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fahia/reference-fusion-hcm-analytics.pdf
+pdf,Reference for Fusion SCM Analytics,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fascm/reference-fusion-scm-analytics.pdf
+pdf,Data Backup Guide,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fdtch/Back%20Up%20FDI%20Data%20with%20Oracle%20Data%20Pump.pdf
+pdf,Workbook Performance Guide,https://docs.oracle.com/en/cloud/saas/analytics/26r2/fdtch/Oracle%20FDI%20Workbook%20Performance%20Optimization%20Guide%20for%20Report%20Authors.pdf
+zip,Fusion CX Analytics Subject Areas,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_Fusion_CX_Analytics_SubjectAreas.zip
+zip,Fusion ERP Analytics Subject Areas,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_Fusion_ERP_Analytics_SubjectAreas.zip
+zip,Fusion HCM Analytics Subject Areas,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_Fusion_HCM_Analytics_SubjectAreas.zip
+zip,Fusion SCM Analytics Subject Areas,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_Fusion_SCM_Analytics_SubjectAreas.zip
+zip,Fusion CX Analytics Business Questions,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_Fusion_CX_Analytics_BusinessQuestions.zip
+zip,Fusion ERP Analytics Business Questions,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_Fusion_ERP_Analytics_BusinessQuestions.zip
+zip,Fusion HCM Analytics Business Questions,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_Fusion_HCM_Analytics_BusinessQuestions.zip
+zip,Fusion SCM Analytics Business Questions,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_Fusion_SCM_Analytics_BusinessQuestions.zip
+zip,Fusion CX Analytics Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_Fusion_CX_Analytics_Tables.zip
+zip,Fusion ERP Analytics Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_Fusion_ERP_Analytics_Tables.zip
+zip,Fusion HCM Analytics Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_Fusion_HCM_Analytics_Tables.zip
+zip,Fusion SCM Analytics Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_Fusion_SCM_Analytics_Tables.zip
+zip,Fusion CX Analytics Diagrams,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_Fusion_CX_Analytics_Diagrams.zip
+zip,Fusion ERP Analytics Diagrams,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_Fusion_ERP_Analytics_Diagrams.zip
+zip,Fusion HCM Analytics Diagrams,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_Fusion_HCM_Analytics_Diagrams.zip
+zip,Fusion SCM Analytics Diagrams,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_Fusion_SCM_Analytics_Diagrams.zip
+xlsx,CX BI View Objects in Data Enrichment,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_BI_View_Objects_in_Data_Enrichment.xlsx
+xlsx,ERP BI View Objects in Data Enrichment,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_BI_View_Objects_in_Data_Enrichment.xlsx
+xlsx,HCM BI View Objects in Data Enrichment,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_HCM_BI_View_Objects_in_Data_Enrichment.xlsx
+xlsx,SCM BI View Objects in Data Enrichment,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_BI_View_Objects_in_Data_Enrichment.xlsx
+xlsx,CX Semantic Model Lineage,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_Semantic_Model_Lineage.xlsx
+xlsx,ERP Semantic Model Lineage,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_Semantic_Model_Lineage.xlsx
+xlsx,HCM Semantic Model Lineage,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_HCM_Semantic_Model_Lineage.xlsx
+xlsx,SCM Semantic Model Lineage,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_Semantic_Model_Lineage.xlsx
+xlsx,CX Metric Calculation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_Metric_Calculation_Logic.xlsx
+xlsx,ERP Metric Calculation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_Metric_Calculation_Logic.xlsx
+xlsx,ERP SCM PRC Metric Calculation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_SCM_PRC_Metric_Calculation_Logic.xlsx
+xlsx,ERP PPM Metric Computation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_PPM_Metric_Computation_Logic.xlsx
+xlsx,HCM Metric Calculation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_HCM_Metric_Calculation_Logic.xlsx
+xlsx,SCM Metric Calculation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_Metric_Calculation_Logic.xlsx
+xlsx,SCM SCM PRC Metric Calculation Logic,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_SCM_PRC_Metric_Calculation_Logic.xlsx
+xlsx,CX Data Augmentation Entity Key List,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_Data_Augmentation_Entity_Key_List.xlsx
+xlsx,ERP Data Augmentation Entity Key List,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_Data_Augmentation_Entity_Key_List.xlsx
+xlsx,HCM Data Augmentation Entity Key List,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faihc/26R2_HCM_Data_Augmentation_Entity_Key_List.xlsx
+xlsx,SCM Data Augmentation Entity Key List,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_Data_Augmentation_Entity_Key_List.xlsx
+xlsx,CX Data Validation,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_Data_Validation.xlsx
+xlsx,ERP Data Validation,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_Data_Validation.xlsx
+xlsx,PRJ Data Validation,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_PRJ_Data_Validation.xlsx
+xlsx,ERP PRC Data Validation,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_PRC_Data_Validation.xlsx
+xlsx,SCM Data Validation,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_Data_Validation.xlsx
+xlsx,CX DM FDR Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_DM_FDR_Tables.xlsx
+xlsx,CX FDR Supported Metrics,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faicx/26R2_CX_FDR_Supported_Metrics.xlsx
+xlsx,ERP DM FDR Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faiar/26R2_ERP_DM_FDR_Tables.xlsx
+xlsx,SCM DM FDR Tables,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_DM_FDR_Tables.xlsx
+xlsx,SCM FDR Supported Metrics,https://docs.oracle.com/en/cloud/saas/analytics/26r2/faisc/26R2_SCM_FDR_Supported_Metrics.xlsx
